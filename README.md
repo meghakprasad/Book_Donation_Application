@@ -26,10 +26,11 @@ The Book Donation Android App allows logged-in users to donate textbooks, notes,
 3. Install XAMPP (Mysql database is used)
    
 		https://www.apachefriends.org/
-4. PHP is used in the back end.
-5. SDK used is Android 12(API Level 31)
-6. Pixel 4 Emulator is used.
-7. Minimum requirement of android version is Android 4.4 (Kit kat)
+4. PHP is used in the back end. (Bookapp folder contains all the php files).
+5. Add the Bookapp PHP Folder inside htdocs folder in XAMPP.
+6. SDK used is Android 12(API Level 31)
+7. Pixel 4 Emulator is used.
+8. Minimum requirement of android version is Android 4.4 (Kit kat)
 
 # NOTE
 For any queries refer the report and the references mentioned in it.
