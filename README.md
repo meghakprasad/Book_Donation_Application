@@ -18,7 +18,7 @@ The Book Donation Android App allows logged-in users to donate textbooks, notes,
 
 # To Run The Project
 
-1. Download Android Studio from Android Developer website.
+1. Download Android Studio from the Android Developer website.
 
 		https://developer.android.com/
 
@@ -26,13 +26,14 @@ The Book Donation Android App allows logged-in users to donate textbooks, notes,
 3. Install XAMPP (Mysql database is used)
    
 		https://www.apachefriends.org/
-4. PHP is used in the back end. (Bookapp folder contains all the php files).
+4. PHP is used in the back end. (Bookapp folder contains all the PHP files).
 5. Add the Bookapp PHP Folder inside htdocs folder in XAMPP.
 6. SDK used is Android 12(API Level 31)
 7. Pixel 4 Emulator is used.
-8. Minimum requirement of android version is Android 4.4 (Kit kat)
-9. Open the BookApp in your Android studio and replace the IP Address in every java file with your IP Address.
-10. To check your IP Address open command prompt and enter the below command.
+8. Minimum requirement Android version to run the app is Android 4.4 (Kit-kat)
+9. Open the BookApp in your Android studio and replace the IP Address in every Java file with your IP Address.
+10. To check your IP Address open the command prompt and enter the below command.
+11. Run the XAMPP first then run the app
     
     For Windows
 
