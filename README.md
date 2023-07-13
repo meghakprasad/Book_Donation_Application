@@ -31,6 +31,16 @@ The Book Donation Android App allows logged-in users to donate textbooks, notes,
 6. SDK used is Android 12(API Level 31)
 7. Pixel 4 Emulator is used.
 8. Minimum requirement of android version is Android 4.4 (Kit kat)
+9. Open the BookApp in your Android studio and replace the IP Address in every java file with your IP Address.
+10. To check your IP Address open command prompt and enter the below command.
+    
+    For Windows
+
+    	ipconfig
+    For Ubuntu
+    
+    	ifconfig
+    
 
 # NOTE
 For any queries refer the report and the references mentioned in it.
