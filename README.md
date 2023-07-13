@@ -31,6 +31,6 @@ The Book Donation Android App allows logged-in users to donate textbooks, notes,
 6. Pixel 4 Emulator is used.
 7. Minimum requirement of android version is Android 4.4 (Kit kat)
 
-#NOTE
+# NOTE
 For any queries refer the report and the references mentioned in it.
 
